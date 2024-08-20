@@ -1,3 +1,5 @@
+package newfolder;
+
 // 1. Write a programming to find the number of permutations of consonants in a given string.
 // 2. Write a program to find the count of number of words in a given string.
 class CompetetiveProgramming {
